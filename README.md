@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Salma Dariya</h1>
 
 <p align="center">
+  <p align="center">
   <img src="salma.jpg" alt="Salma Dariya" width="220"/>
+</p>
 </p>
 
 <h3 align="center">B.Tech Computer Science Engineering Student</h3>
