@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm Salma Dariya</h1>
 
-<p align="center">
-  <img src="./profile.png" alt="Salma Dariya" width="220">
-</p>
-
 <h3 align="center">B.Tech Computer Science Engineering Student</h3>
 
 ---
 
 ## 👩‍💻 About Me
 
+<img src="./profile.png" width="180" align="right">
+
 - 🎓 B.Tech Computer Science Engineering Student
 - 💻 Interested in Frontend Development
 - 🌱 Currently learning React, Git and GitHub
 - 🚀 Passionate about building web applications
 - 📍 Kerala, India
+- 🎯 Goal: Become a Frontend Developer
+
+<br clear="right"/>
 
 ---
 
@@ -31,7 +32,7 @@
 - React
 - Tailwind CSS
 
-### Tools & Technologies
+### Tools
 - Git
 - GitHub
 - VS Code
@@ -68,9 +69,12 @@ A web-based workforce management application developed to streamline employee ma
 
 ---
 
-## 🎯 Career Goal
+## 🏆 Strengths
 
-To become a skilled Frontend Developer and build modern, user-friendly web applications.
+- Quick Learner
+- Problem Solving
+- Team Collaboration
+- Communication Skills
 
 ---
 
