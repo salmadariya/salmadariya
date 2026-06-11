@@ -6,16 +6,12 @@
 
 ## 👩‍💻 About Me
 
-<img src="./profile.png" width="180" align="right">
-
 - 🎓 B.Tech Computer Science Engineering Student
 - 💻 Interested in Frontend Development
 - 🌱 Currently learning React, Git and GitHub
 - 🚀 Passionate about building web applications
 - 📍 Kerala, India
 - 🎯 Goal: Become a Frontend Developer
-
-<br clear="right"/>
 
 ---
 
@@ -32,7 +28,7 @@
 - React
 - Tailwind CSS
 
-### Tools
+### Tools & Technologies
 - Git
 - GitHub
 - VS Code
