@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Salma Dariya</h1>
 
-<!--
-**salmadariya/salmadariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="salma.jpg" alt="Salma Dariya" width="220"/>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">B.Tech Computer Science Engineering Student</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+* 🎓 B.Tech Computer Science Engineering Student
+* 💻 Interested in Frontend Development
+* 🌱 Currently learning React, Git and GitHub
+* 🚀 Passionate about building web applications
+* 📍 Kerala, India
+
+---
+
+## 🛠️ Skills
+
+### Programming
+
+* C
+* Java
+* JavaScript
+
+### Web Development
+
+* HTML
+* CSS
+* React
+* Tailwind CSS
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+
+---
+
+## 📂 Projects
+
+### CTDS Workforce Management System
+
+A web-based workforce management application developed to streamline employee management processes.
+
+**Features**
+
+* Employee Dashboard
+* Attendance Management
+* Leave Requests
+* Task Tracking
+* KPI Monitoring
+* Notifications
+
+**Technologies Used**
+
+* React
+* Vite
+* Tailwind CSS
+* Git & GitHub
+
+---
+
+## 📚 Currently Learning
+
+* React Development
+* Git & GitHub
+* Frontend Best Practices
+
+---
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/salmadariya
+
+---
+
+⭐ Thank you for visiting my profile!
